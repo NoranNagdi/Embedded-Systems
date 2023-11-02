@@ -1,6 +1,4 @@
 # My Embedded-Systems Projects on ATmega32 Microcontroller
-# embedded-systems-projects-using-ATmega32-Microcontroller
-## This repo contains the 4-projects that I have made on ATmega32 Microcontroller.
 ### 1_STOP WATCH:
 - Drivers: GPIO, Timer, External Interrupts, and 7-Segment
 
